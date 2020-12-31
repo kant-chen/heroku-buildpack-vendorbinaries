@@ -1,5 +1,5 @@
 #!/bin/bash
 
 cd $1
-chmod +x Build_command
+chmod +x Build_commands
 ./Build_commands
